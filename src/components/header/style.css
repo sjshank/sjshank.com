@@ -28,7 +28,8 @@ header {
   left: 30%;
   bottom: 2rem;
 }
-.mobile__header-socials{
+
+.mobile__header-socials {
   display: none;
 }
 
@@ -71,7 +72,7 @@ header {
 
 @media screen and (max-width:767px) {
   header {
-    height: 85vh;
+    height: 95vh;
   }
 
   .header__socials {
@@ -90,6 +91,12 @@ header {
     left: 0;
     bottom: 10px;
     gap: 2rem;
+  }
+}
+
+@media only screen and (max-width: 450px) and (min-width: 320px) {
+  header {
+    height: 95vh;
   }
 }
 
