@@ -115,6 +115,10 @@
     margin: 0 0;
   }
 
+  .about__card {
+    padding: 1rem;
+  }
+
   .about__content {
     text-align: center;
   }
