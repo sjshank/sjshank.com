@@ -18,6 +18,7 @@ const Header = () => {
 
         <div className="">
           <img src={ME} alt="me" className="me"/>
+          <SocialProfile />
         </div>
       </div>
     </header>

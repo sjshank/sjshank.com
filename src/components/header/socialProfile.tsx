@@ -5,7 +5,7 @@ import { GiTrail } from "react-icons/gi";
 
 const SocialProfile = () => {
   return (
-    <div className="header__socials">
+    <div className="header__socials mobile__header-socials">
       <a
         href="https://www.linkedin.com/in/saurabh-shankariya-a9127349/"
         target="_blank"

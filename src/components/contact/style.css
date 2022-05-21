@@ -78,8 +78,12 @@ input, textarea {
 @media screen and (max-width:767px) {
 
   .container.contact__container {
-    width: auto;
-    margin: 0 2rem;
-    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .contact__options, form {
+    width: 100%;
+    padding: 0 2rem;
   }
 }

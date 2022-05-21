@@ -20,13 +20,16 @@ header {
 }
 
 .header__socials {
-  display: flex;
+  display: flex !important;
   flex-direction: column;
   align-items: center;
   gap: 0.8rem;
   position: absolute;
   left: 30%;
   bottom: 2rem;
+}
+.mobile__header-socials{
+  display: none;
 }
 
 /* .header__socials::after {
@@ -57,6 +60,10 @@ header {
     height: 68vh;
   }
 
+  .header__socials {
+    left: 25%;
+  }
+
 }
 
 
@@ -69,6 +76,20 @@ header {
 
   .header__socials {
     display: none;
+    left: 25%;
+  }
+
+  .mobile__header-socials {
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    left: 0;
+    bottom: 10px;
+    gap: 2rem;
   }
 }
 
@@ -100,5 +121,3 @@ header {
     background-position: 200% center;
   }
 }
-
-
