@@ -56,10 +56,12 @@ const About = () => {
             Hey, my name's Saurabh, and I'm a design-minded software developer. 
             I like building collaborative experiences, interactive articles, 
             and open-source projects.
-            
+          </p>
+          <p>  
             I am passionate about learning Frontend and Blockchain engineering,
             and discovering facts about the tech world.
-            
+          </p>
+          <p>
             My hobbies also include Sound mixing, spending time at farmland, and enjoying holy expedition.
           </p>
 
