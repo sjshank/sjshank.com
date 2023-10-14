@@ -53,11 +53,14 @@ const About = () => {
           </div>
 
           <p>
-            I am a seasoned & certified software developer with 9 years of
-            experience in Frontend and Blockchain engineering. I am passionate
-            about building insightful and creative software that improves the
-            lives of those around me. In my free time, I enjoy making short
-            movies, sound editing and e-learning.
+            Hey, my name's Saurabh, and I'm a design-minded software developer. 
+            I like building collaborative experiences, interactive articles, 
+            and open-source projects.
+            
+            I am passionate about learning Frontend and Blockchain engineering,
+            and discovering facts about the tech world.
+            
+            My hobbies also include Sound mixing, spending time at farmland, and enjoying holy expedition.
           </p>
 
           <a href="#contact" className="btn btn-primary">
