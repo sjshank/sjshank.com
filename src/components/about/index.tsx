@@ -23,17 +23,17 @@ const About = () => {
             <article className="about__card">
               <FaAward fontSize={25} className="about__icon" />
               <h5>Experience</h5>
-              <small>9 Years Working</small>
+              <small>10+ Years Working</small>
             </article>
             <article className="about__card">
               <FiUsers fontSize={25} className="about__icon" />
               <h5>Clients</h5>
-              <small>15+ Worldwide</small>
+              <small>18+ Worldwide</small>
             </article>
             <article className="about__card">
               <AiOutlineFundProjectionScreen fontSize={25} className="about__icon" />
               <h5>Projects</h5>
-              <small>65+ Completed</small>
+              <small>70+ Completed</small>
             </article>
             <article className="about__card">
               <FaUserGraduate fontSize={25} className="about__icon" />
@@ -43,7 +43,7 @@ const About = () => {
             <article className="about__card">
               <GiTrophiesShelf fontSize={25} className="about__icon" />
               <h5>Achievements</h5>
-              <small>10+ Rewards</small>
+              <small>12+ Rewards</small>
             </article>
             <article className="about__card">
               <FaBirthdayCake fontSize={25} className="about__icon" />
